@@ -1,0 +1,48 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+.pnpm-debug.log
+.pnp/
+.pnp.js
+
+# TypeScript
+*.tsbuildinfo
+
+# Build outputs
+build/
+dist/
+out/
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Environment files
+.env
+.env.test
+.env.local
+.env.*.local
+
+# Co
